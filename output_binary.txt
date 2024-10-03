@@ -1,0 +1,64 @@
+File: A1-20um-20x
+Dark pixels: 221247
+White pixels: 187233
+Ratio (dark/white): 0.54
+File: A8-10um-50x
+Dark pixels: 126395
+White pixels: 286713
+Ratio (dark/white): 0.31
+File: B9-10um-50x
+Dark pixels: 263096
+White pixels: 147972
+Ratio (dark/white): 0.64
+File: C9-20um-20x
+Dark pixels: 330503
+White pixels: 78349
+Ratio (dark/white): 0.81
+File: B3-10um-50x
+Dark pixels: 202675
+White pixels: 203597
+Ratio (dark/white): 0.50
+File: B4-10um-50x
+Dark pixels: 100521
+White pixels: 310545
+Ratio (dark/white): 0.24
+File: B2-10um-50x
+Dark pixels: 327215
+White pixels: 82745
+Ratio (dark/white): 0.80
+File: A4-10um-50x
+Dark pixels: 271588
+White pixels: 136340
+Ratio (dark/white): 0.67
+File: A1-10um-50x
+Dark pixels: 206400
+White pixels: 202452
+Ratio (dark/white): 0.50
+File: B9-20um-20x
+Dark pixels: 307133
+White pixels: 104490
+Ratio (dark/white): 0.75
+File: A8-20um-20x
+Dark pixels: 106785
+White pixels: 305395
+Ratio (dark/white): 0.26
+File: B3-20um-20x
+Dark pixels: 175925
+White pixels: 233665
+Ratio (dark/white): 0.43
+File: B4-20um-20x
+Dark pixels: 138546
+White pixels: 270121
+Ratio (dark/white): 0.34
+File: C9-10um-50x
+Dark pixels: 354026
+White pixels: 56119
+Ratio (dark/white): 0.86
+File: A4-20um-20x
+Dark pixels: 279896
+White pixels: 128956
+Ratio (dark/white): 0.68
+File: B2-20um-20x
+Dark pixels: 398332
+White pixels: 12182
+Ratio (dark/white): 0.97
